@@ -1,0 +1,45 @@
+foo
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# Committer: Debian <admin@ip-172-31-1-92.eu-central-1.compute.internal>
+#
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .hg/00changelog.i
+#	new file:   .hg/cache/branch2-served
+#	new file:   .hg/cache/checkisexec
+#	new file:   .hg/cache/checklink
+#	new file:   .hg/cache/checklink-target
+#	new file:   .hg/cache/checknoexec
+#	new file:   .hg/cache/manifestfulltextcache
+#	new file:   .hg/cache/rbc-names-v1
+#	new file:   .hg/cache/rbc-revs-v1
+#	new file:   .hg/dirstate
+#	new file:   .hg/hgrc
+#	new file:   .hg/last-message.txt
+#	new file:   .hg/requires
+#	new file:   .hg/store/00changelog.i
+#	new file:   .hg/store/00manifest.i
+#	new file:   .hg/store/data/foo.i
+#	new file:   .hg/store/data/~2egit/foo.i
+#	new file:   .hg/store/data/~2ehgsub.i
+#	new file:   .hg/store/data/~2ehgsubstate.i
+#	new file:   .hg/store/fncache
+#	new file:   .hg/store/phaseroots
+#	new file:   .hg/store/undo
+#	new file:   .hg/store/undo.backup.fncache
+#	new file:   .hg/store/undo.backupfiles
+#	new file:   .hg/store/undo.phaseroots
+#	new file:   .hg/undo.backup.dirstate
+#	new file:   .hg/undo.bookmarks
+#	new file:   .hg/undo.branch
+#	new file:   .hg/undo.desc
+#	new file:   .hg/undo.dirstate
+#	new file:   .hgsub
+#	new file:   .hgsubstate
+#	new file:   foo
+#
